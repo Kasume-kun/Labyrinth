@@ -6,3 +6,5 @@ W - Forward
 S - Backward  
 D - Rotate clockwise  
 A - Rotate anticlockwise  
+
+## How to execute
