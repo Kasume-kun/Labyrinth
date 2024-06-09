@@ -4,8 +4,10 @@ Step into the dark corridors of the ancient Labyrinth of Shadows, where reality 
 ## Controls
 W - Forward  
 S - Backward  
-D - Rotate clockwise  
-A - Rotate anticlockwise  
+A - Strafe Leftwards  
+D - Strafe Rightwards  
+K - Rotate clockwise  
+J - Rotate anticlockwise  
 
 ## Dependencies  
 This project requires the QuickCG library a port of the SDL Library.  
